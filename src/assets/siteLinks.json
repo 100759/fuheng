@@ -1,33 +1,33 @@
 [
   {
     "icon": "Blog",
-    "name": "我的博客",
+    "name": "博客",
     "link": "https://blog.fuheng.icu/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://blog.fuheng.icu/"
+    "link": "https://pan.fuheng.icu/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://blog.fuheng.icu/"
+    "name": "知识文档",
+    "link": "https://Learn.fuheng.icu/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://blog.fuheng.icu/"
+    "name": "影视资源",
+    "link": "https://so.fuheng.icu/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://blog.fuheng.icu/"
+    "name": "文档",
+    "link": "https://Doc.fuheng.icu/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://blog.fuheng.icu/"
+    "name": "网站检测",
+    "link": "https://web.fuheng.icu/"
   },
   {
     "icon": "LaptopCode",
