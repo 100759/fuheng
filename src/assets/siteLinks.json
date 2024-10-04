@@ -12,7 +12,7 @@
   {
     "icon": "CompactDisc",
     "name": "知识文档",
-    "link": "https://Learn.fuheng.icu/"
+    "link": "https://doc.fuheng.icu/"
   },
   {
     "icon": "Compass",
@@ -21,13 +21,28 @@
   },
   {
     "icon": "Book",
-    "name": "文档",
-    "link": "https://Doc.fuheng.icu/"
+    "name": "图床",
+    "link": "https://i.fuheng.icu/"
   },
   {
     "icon": "Fire",
     "name": "网站检测",
     "link": "https://web.fuheng.icu/"
+  },
+  {
+    "icon": "Fire",
+    "name": "封面图生成",
+    "link": "https://c.fuheng.icu/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "Notion 头像",
+    "link": "https://t.fuheng.icu/zh"
+  },
+  {
+    "icon": "Fire",
+    "name": "NextChat",
+    "link": "https://ai.fuheng.icu/"
   },
   {
     "icon": "LaptopCode",
